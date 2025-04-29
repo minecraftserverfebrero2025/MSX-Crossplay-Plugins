@@ -724,3 +724,147 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.libs.org.apa
 [21:16:40] [Craft Scheduler Thread - 19 - TeleCraft/INFO]: [INFO][TeleCraft] cannot check for update try on next startup...
 [21:16:40] [Craft Scheduler Thread - 19 - TeleCraft/INFO]: [INFO][TeleCraft] version check server is down...
 [21:17:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:28:27] [User Authenticator #0/INFO]: UUID of player ZZRoyers_Admin is 4ac5f206-e9ba-3f71-a041-d4d115229fd5
+[21:28:29] [Server thread/INFO]: [+] ZZRoyers_Admin
+[21:28:29] [Server thread/INFO]: ZZRoyers_Admin[/127.240.173.60:59883] logged in with entity id 52 at ([world]6.5, 101.0, 10.5)
+[21:29:23] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[21:29:25] [Server thread/INFO]: ZZRoyers_Admin issued server command: /gamemode creative
+[21:29:25] [Server thread/INFO]: [ZZRoyers_Admin: Set own game mode to Creative Mode]
+[21:29:35] [Server thread/INFO]: ZZRoyers_Admin lost connection: Disconnected
+[21:29:35] [Server thread/INFO]: [-] ZZRoyers_Admin
+[21:29:50] [User Authenticator #1/INFO]: UUID of player ZZRoyers_Admin is 4ac5f206-e9ba-3f71-a041-d4d115229fd5
+[21:29:51] [Server thread/INFO]: [+] ZZRoyers_Admin
+[21:29:51] [Server thread/INFO]: ZZRoyers_Admin[/127.240.173.60:60047] logged in with entity id 551 at ([world]47.240216891601804, 115.15193367819481, -10.010115328346027)
+[21:31:54] [Server thread/INFO]: ZZRoyers_Admin issued server command: /setspawn
+[21:32:33] [Server thread/INFO]: ZZRoyers_Admin issued server command: /tp ZZRoyers_Admin spawn
+[21:33:30] [Server thread/INFO]: ZZRoyers_Admin lost connection: Disconnected
+[21:33:30] [Server thread/INFO]: [-] ZZRoyers_Admin
+[21:34:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:34:42] [Server thread/INFO]: Stopping the server
+[21:34:42] [Server thread/INFO]: Stopping server
+[21:34:42] [Server thread/INFO]: [MoneyFromMobs] Disabling MoneyFromMobs v4.9
+[21:34:42] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.2.8
+[21:34:42] [Server thread/INFO]: [PlayersCarryEachOtherMC] Disabling PlayersCarryEachOtherMC v1.50
+[21:34:42] [Server thread/INFO]: [TeleCraft] Disabling TeleCraft v1.8.8
+[21:34:42] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
+[21:34:42] [Server thread/INFO]: [BetterSleeping4] Disabling BetterSleeping4 v4.0.2
+[21:34:42] [Server thread/INFO]: [UltraRepair] Disabling UltraRepair v4.2.4
+[21:34:42] [Server thread/INFO]: [UltraRepair] UltraRepair v4.2.4 by Demeng has been disabled.
+[21:34:42] [Server thread/INFO]: [InsaneAnnouncer] Disabling InsaneAnnouncer v1.4.5
+[21:34:42] [Server thread/INFO]: [UltimateTimber] Disabling UltimateTimber v1.1
+[21:34:42] [Server thread/INFO]: [InventoryTooltips] Disabling InventoryTooltips v1.0.3
+[21:34:42] [Server thread/INFO]: [SimpleClaimSystem] Disabling SimpleClaimSystem v1.12.3.2
+[21:34:42] [Server thread/INFO]: ==========================================================================
+[21:34:42] [Server thread/INFO]: SimpleClaimSystem is disabled !
+[21:34:42] [Server thread/INFO]: Discord for support : https://discord.gg/6sRTGprM95
+[21:34:42] [Server thread/INFO]: Documentation : https://xyness.gitbook.io/simpleclaimsystem
+[21:34:42] [Server thread/INFO]: Developped by Xyness
+[21:34:42] [Server thread/INFO]: ==========================================================================
+[21:34:42] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.4
+[21:34:43] [Server thread/INFO]: [CommandPanels] Disabling CommandPanels v3.21.7
+[21:34:43] [Server thread/INFO]: RockyHawk's CommandPanels Plugin Disabled, aww man.
+[21:34:43] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.6.0
+[21:34:43] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.19
+[21:34:43] [Server thread/INFO]: [staffplugin1.13] Disabling staffplugin1.13 v1.4.2-stable
+[21:34:43] [Server thread/INFO]: [staffplugin1.13] Staffplugin has been disabled
+[21:34:43] [Server thread/INFO]: [GeyserSkinManager] Disabling GeyserSkinManager v1.7
+[21:34:43] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.2
+[21:34:43] [Server thread/INFO]: [Reinforcement] Disabling Reinforcement v1.1.2
+[21:34:43] [Server thread/INFO]: [ExpandedCooking] Disabling ExpandedCooking v1.3.4
+[21:34:43] [Server thread/INFO]: [XConomy] Disabling XConomy v2.25.15
+[21:34:43] [Server thread/INFO]: [XConomy] XConomy está deshabilitado
+[21:34:43] [Server thread/INFO]: [SilkSpawners_v2] Disabling SilkSpawners_v2 v2.3.2
+[21:34:43] [Server thread/INFO]: [SilkSpawners] [INFO]: Stopping version checker
+[21:34:43] [Server thread/INFO]: [RotatingItems] Disabling RotatingItems v1.3
+[21:34:43] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v5.5
+[21:34:43] [Server thread/INFO]: [SetSpawn] Disabled!
+[21:34:43] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[21:34:43] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[21:34:43] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[21:34:43] [Server thread/INFO]: [DirectionHUD] Disabling DirectionHUD v1.8.0.3+1.20-1.21.4
+[21:34:43] [Server thread/INFO]: [DirectionHUD] Safely shutdown DirectionHUD server!
+[21:34:43] [Server thread/INFO]: [BigDoors] Disabling BigDoors vAlpha 0.1.8.58 (b1183)
+[21:34:43] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.23.4
+[21:34:43] [Server thread/INFO]: [PlayerTimeLimit] Disabling PlayerTimeLimit v1.6.1
+[21:34:43] [Server thread/INFO]: [PlayerTimeLimit] Has been disabled! Version: 1.6.1
+[21:34:43] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
+[21:34:43] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1 b112
+[21:34:43] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[21:34:43] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[21:34:43] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 9ms)
+[21:34:43] [Craft Scheduler Thread - 10 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[21:34:43] [Craft Scheduler Thread - 9 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[21:34:43] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.7-T20250421160243
+[21:34:43] [Server thread/INFO]: [Minepacks] PlaceholderAPI hook was successfully unregistered!
+[21:34:43] [Thread-53/INFO]: [Minepacks] Start downloading update: 2.4.32-release
+[21:34:43] [Thread-53/INFO]: [Minepacks] Downloading update: 10% of 1.84 MiB
+[21:34:43] [Thread-53/INFO]: [Minepacks] Downloading update: 20% of 1.84 MiB
+[21:34:43] [Thread-53/INFO]: [Minepacks] Downloading update: 30% of 1.84 MiB
+[21:34:43] [Thread-53/INFO]: [Minepacks] Downloading update: 40% of 1.84 MiB
+[21:34:43] [Thread-53/INFO]: [Minepacks] Downloading update: 50% of 1.84 MiB
+[21:34:43] [Thread-53/INFO]: [Minepacks] Downloading update: 60% of 1.84 MiB
+[21:34:43] [Thread-53/INFO]: [Minepacks] Downloading update: 70% of 1.84 MiB
+[21:34:43] [Thread-53/INFO]: [Minepacks] Downloading update: 80% of 1.84 MiB
+[21:34:43] [Thread-53/INFO]: [Minepacks] Downloading update: 90% of 1.84 MiB
+[21:34:43] [Thread-53/INFO]: [Minepacks] Downloading update: 100% of 1.84 MiB
+[21:34:43] [Thread-53/INFO]: [Minepacks] Finished updating.
+[21:34:44] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
+[21:34:44] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
+[21:34:44] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
+[21:34:44] [Server thread/INFO]: [RedProtect] Disabling RedProtect v8.1.2-SNAPSHOT
+[21:34:44] [Server thread/INFO]: [RedProtect] Saving world's regions...
+[21:34:44] [Server thread/INFO]: [RedProtect] Saving world_the_end's regions...
+[21:34:44] [Server thread/INFO]: [RedProtect] Saving world_nether's regions...
+[21:34:44] [Server thread/INFO]: [RedProtect] Unregistering listeners...
+[21:34:44] [Server thread/INFO]: [RedProtect] RedProtect v8.1.2-SNAPSHOT turned off...
+[21:34:44] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.0-SNAPSHOT
+[21:34:44] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[21:34:44] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[21:34:44] [Server thread/INFO]: [PvPManager] Disabling PvPManager v3.18.44
+[21:34:44] [Server thread/INFO]: [PvPManager] Saving player data to storage...
+[21:34:44] [Server thread/INFO]: [PvPManager] Closed SQLITE storage
+[21:34:44] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-SNAPSHOT-968
+[21:34:44] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[21:34:44] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[21:34:44] [WebSocketConnectReadThread-163/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[21:34:45] [Server thread/INFO]: [dynmap] Saved 2078 pending tile renders in world 'world'
+[21:34:50] [Server thread/INFO]: [dynmap] Disabled
+[21:34:50] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
+[21:34:50] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[21:34:50] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[21:34:50] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[21:34:50] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[21:34:50] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[21:34:50] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[21:34:50] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[21:34:50] [Server thread/INFO]: Saving players
+[21:34:50] [Server thread/INFO]: Saving worlds
+[21:34:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Saved 131 block chunks, 145 entity chunks, 0 poi chunks in world 'world' in 0.35s
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:34:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:34:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:34:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:34:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:34:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:34:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:34:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:34:50] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[21:34:50] [Server thread/INFO]: All I/O tasks to complete
+[21:34:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:34:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
